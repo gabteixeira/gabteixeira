@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabteixeira/)](https://www.linkedin.com/in/gabteixeira/)
 [![Telegram](https://img.shields.io/badge/-Telegram-222222?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gabteixeira)](https://t.me/gabteixeira)
 
+*Read this in other languages:*  [English](README.en.md)
+
 Sou aluno do sexto semestre do curso de Ciência da Computação procurando a oportunidade de colaborar em diferentes tipos de projetos.
 
 - 🏢 🇧🇷 Sou de São Paulo - Brasil.
