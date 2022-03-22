@@ -5,7 +5,7 @@
 
 *Read this in other languages:*  [English](README.en.md)
 
-Sou aluno do sexto semestre do curso de Ciência da Computação procurando a oportunidade de colaborar em diferentes tipos de projetos.
+Sou aluno do oitavo semestre do curso de Ciência da Computação procurando a oportunidade de colaborar em diferentes tipos de projetos.
 
 - 🏢 🇧🇷 Sou de São Paulo - Brasil.
 - 💻 Atualmente engajado em Desenvolvimento Web & Mobile.
